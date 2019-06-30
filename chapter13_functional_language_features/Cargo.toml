@@ -1,0 +1,7 @@
+[package]
+name = "chapter13_functional_language_features"
+version = "0.1.0"
+authors = ["Chuyang Wan <vcyreg@gmail.com>"]
+edition = "2018"
+
+[dependencies]
